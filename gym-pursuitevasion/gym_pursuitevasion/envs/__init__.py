@@ -1,0 +1,1 @@
+from gym_pursuitevasion.envs.pursuitevasion import PursuitEvasionEnv
