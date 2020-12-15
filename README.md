@@ -4,13 +4,13 @@ As part of my masters project at UC Berkeley, we formalize a collaborative-compe
 
 My thesis can be found at 
 
-# Reference paper
-Generative Adversarial Imitation Learning https://arxiv.org/abs/1606.03476
-
 # Package requirements
+tensorflow \
 gym - https://github.com/openai/gym \
 stable_baselines - https://stable-baselines.readthedocs.io/en/master/index.html \
-tensorflow
+
+# Reference paper
+Generative Adversarial Imitation Learning https://arxiv.org/abs/1606.03476
 
 To cite this repository:
 ```python
