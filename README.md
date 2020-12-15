@@ -8,10 +8,8 @@ My thesis can be found at
 Generative Adversarial Imitation Learning https://arxiv.org/abs/1606.03476
 
 # Package requirements
-gym - https://github.com/openai/gym
-
-stable_baselines - https://stable-baselines.readthedocs.io/en/master/index.html
-
+gym - https://github.com/openai/gym \
+stable_baselines - https://stable-baselines.readthedocs.io/en/master/index.html \
 tensorflow
 
 To cite this repository:
