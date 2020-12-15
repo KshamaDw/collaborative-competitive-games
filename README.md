@@ -20,6 +20,6 @@ To cite this repository:
   year = {2020},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{}},
+  howpublished = {\url{https://github.com/KshamaDw/collaborative-competitive-games}},
 }
 ```
