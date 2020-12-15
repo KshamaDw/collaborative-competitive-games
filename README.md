@@ -4,3 +4,5 @@ In this project, we formalize a collaborative-competitive game with competition 
 
 # Reference paper
 Generative Adversarial Imitation Learning https://arxiv.org/abs/1606.03476
+
+To cite this repository:
