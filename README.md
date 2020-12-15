@@ -5,12 +5,5 @@ In this project, we formalize a collaborative-competitive game with competition 
 # Reference paper
 Generative Adversarial Imitation Learning https://arxiv.org/abs/1606.03476
 
-To cite this repository:
-@misc{collaborative-competitive-games,
-  author = {Dwarakanath, Kshama},
-  title = {Learning for Collaborative-Competitive games},
-  year = {2020},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{}},
-}
+# Report of findings 
+
